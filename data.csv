@@ -1,0 +1,798 @@
+Address, Zip Code, Value, SQFT, Price Per SQFT, Number of Bedrooms, Number of bathrooms, Number of Full Bathrooms, Year Built, Heating, Cooling, Parking, Type, Has Garage, Number of Stories, HOA Fee
+4800 S Lake Park Ave APT 607,60615,35000,1175,30,2,1,1,1970,Forced air: Gas,Central,None,Condo,No,9,1177
+232 N La Crosse Ave,60644,239900,2300,104,5,3,3,1885,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+12043 S Wallace St,60628,7000,1970,4,7,3,3,1898,Gas,null,None,Multiple Occupancy,No,3,null
+1511 S Kolin Ave #2,60623,55900,null,NaN,3,2,2,2006,Gas,Central,Covered,Condo,null,1,null
+4938 S Drexel Blvd APT 114R,60615,209000,1218,172,2,2,1,1891,Forced air: Gas,Central,Garage: Covered,Condo,null,2,377
+2636 N Orchard St APT 2R,60614,349000,1100,317,2,2,2,2013,Forced air: Gas,Central,None,Condo,No,4,238
+146 W 112th Pl,60628,39900,1500,27,3,2,1,1915,Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+1224 W Van Buren St APT 504,60607,275000,1140,241,2,2,1,2004,Gas,Central,Garage - Attached: Covered,Condo,null,8,571
+7302 S Lafayette Ave,60621,89900,1411,64,3,3,2,1900,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2139 W Gladys Ave #2,60612,245000,1200,204,3,2,2,2020,Gas,Central,Covered,Townhouse,null,2,null
+10059 S Indiana Ave,60628,74900,1152,65,3,2,1,1965,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+7000 S Paxton Ave N #2,60649,95000,2000,48,3,2,2,1919,Forced air: Gas,null,None,Condo,No,3,450
+5025 W Washington Blvd,60644,265000,2191,121,5,3,3,1935,Forced air: Gas,null,Garage: None,Multiple Occupancy,No,null,null
+7652 S Honore St,60620,255000,1800,142,6,2,2,1918,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+1552 S Sawyer Ave,60623,85000,null,NaN,4,2,2,1914,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+6156 S Saint Lawrence Ave,60637,524000,2100,250,5,4,3,2020,Forced air: Heat pump: Electric,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+728 W Jackson Blvd APT 403,60661,389000,1435,271,2,2,2,1926,Forced air: Heat pump: Other,Central,Garage - Attached: Covered,Condo,null,9,708
+5850 W 55th St APT 2K,60638,130000,800,163,2,1,1,1969,Electric,null,Covered,Condo,null,3,169
+5258 S Central Ave,60638,244900,3503,70,5,3,3,1967,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+6166 N Sheridan Rd APT 6H,60660,148800,1200,124,2,2,1,1970,Baseboard,null,Garage - Attached: Covered,Condo,null,9,982
+6030 N Sheridan Rd APT 1108,60660,127800,800,160,2,1,1,1949,Baseboard,Central,Garage: Garage - Attached: Covered,Condo,null,9,380
+5621 S Mayfield Ave,60638,219900,1643,134,4,2,2,1955,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+710 N Leamington Ave,60644,49000,1512,32,4,2,2,1895,null,null,Garage,Single Family,No,2,null
+4850 S Lake Park Ave APT 808,60615,33000,1175,28,2,1,1,1970,Electric,Central,Garage - Detached: Covered,Condo,null,9,1293
+2615 W 102nd Pl,60655,559000,2620,213,5,5,4,1947,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+958 N Wolcott Ave #1,60622,519000,2000,260,3,3,2,2003,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Townhouse,null,3,277
+6700 S Crandon Ave APT 2A,60649,55000,2100,26,4,3,2,1926,Other: Gas,null,None,Condo,No,9,1278
+1000 N Lake Shore Dr APT 1003,60611,125000,900,139,1,1,1,1954,null,null,Garage - Attached,Condo,No,9,711
+10516 S Eggleston Ave,60628,229900,2000,115,4,2,2,1927,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3201 W Leland Ave APT 207,60625,184000,828,222,2,1,1,2010,Forced air: Gas,Central,Garage - Attached,Condo,No,5,187
+12438 S Perry Ave,60628,214000,1220,175,4,2,2,1951,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+830 W Agatite Ave APT 3,60640,248800,1380,180,3,2,2,2015,Forced air: Gas,Central,Garage: Covered,Condo,null,3,337
+4557 N Harding Ave,60625,459000,2000,230,3,3,2,1905,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+11533 S Peoria St,60643,39000,900,43,3,2,1,1961,null,null,Garage: Off-street,Single Family,No,null,null
+1221 N Dearborn St PENTHOUSE P9N,60610,290000,1200,242,2,2,1,1972,Electric,null,Garage - Attached: Covered,Condo,null,9,803
+15 W Burton Pl,60610,13500000,10000,1350,6,8,5,2008,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+1516 S Sawyer Ave,60623,95500,null,NaN,8,2,2,1895,null,null,Covered,Multiple Occupancy,null,null,null
+1500 N Lake Shore Dr,60610,17000000,8000,2125,6,7,6,1927,null,null,Garage - Attached: Covered,Condo,null,9,8207
+307 N Parkside Ave,60644,350000,2308,152,6,3,3,1900,null,null,Garage: Garage - Detached: Covered,Single Family,null,null,null
+8604 S Ada St,60620,284900,3185,89,4,3,3,1926,null,null,Garage - Detached: Covered,Single Family,null,null,null
+4556 S King Dr #3D,60653,129900,1800,72,3,2,2,1886,Forced air: Gas,Central,None,Condo,No,4,309
+1910 S Michigan Ave APT 201,60616,199900,825,242,1,1,1,2001,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,4,347
+2239 N Lister Ave APT 402,60614,375000,1400,268,3,2,2,2006,Forced air: Gas,Central,Covered,Condo,null,4,225
+4818 S Calumet Ave,60615,399999,1500,267,3,3,2,2020,Forced air: Gas,Central,Covered,Single Family,null,null,null
+300 N State St APT 5823,60654,425000,1225,347,2,2,2,1962,Forced air: Electric,Other,Garage - Attached: Covered,Condo,null,9,903
+430 W Armitage Ave APT E,60614,499900,1500,333,2,2,2,1996,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,null,394
+8800 S Houston Ave,60617,79900,null,NaN,6,3,3,1890,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+7353 S Honore St,60636,174900,1200,146,5,2,2,1965,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+6635 S Damen Ave,60636,,null,NaN,null,null,null,null,null,null,null,null,null,null,null
+3 W Burton Pl,60610,18750000,20002,937,6,13,8,null,Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+900 E 62nd St APT BW,60637,184900,1200,154,3,2,2,null,Forced air,Central,Covered,Condo,null,3,308
+50 W Schiller St #G-2,60610,299000,null,NaN,3,2,2,1922,null,null,None,Condo,No,3,1582
+3804 S Wabash Ave,60653,495900,3000,165,4,4,3,1885,Forced air: Gas,Central,Garage: None,Single Family,No,null,null
+523 N Troy St,60612,319000,null,NaN,4,4,3,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4859 S Forrestville Ave,60615,625900,3600,174,4,4,3,1880,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+6413 S Kenneth Ave,60629,359900,2600,138,5,3,3,1953,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3133 N Lakewood Ave APT 2E,60657,350000,1200,292,2,2,2,2009,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,4,302
+7730 N Eastlake Ter APT 1,60626,250000,1400,179,2,2,2,1925,Forced air: Gas,Central,Garage: Off-street: Covered,Condo,null,4,233
+8 W Monroe St APT 1100,60603,240000,1000,240,2,2,1,2006,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,663
+1962 W Diversey Pkwy APT 2,60614,325000,1200,271,2,2,2,2000,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,1,133
+3534 N Lake Shore Dr APT 7C,60657,374900,1800,208,3,2,2,1920,Gas,null,None,Condo,No,9,1205
+11538 S Avenue J,60617,274000,2400,114,3,2,2,1977,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1270 S Saint Louis Ave #3,60623,114900,1200,96,3,2,2,2007,Forced air,Central,Off-street: Covered,Condo,null,3,95
+609 W Belden Ave APT 1D,60614,599900,2000,300,3,3,2,null,Forced air: Gas,Central,Covered,Condo,null,4,329
+1508 E 75th St,60619,69899,2420,29,5,2,2,1905,Other: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,2,null
+2849 W Congress Pkwy,60612,229000,1222,187,3,3,2,2020,Gas,Central,Garage - Detached: Covered,Townhouse,null,3,125
+10218 S Prospect Ave,60643,175000,1360,129,3,2,2,1905,None: Other,Wall,Garage - Attached: Covered,Single Family,null,null,null
+2728 N Pine Grove Ave #2,60614,369000,1400,264,2,2,2,1920,null,null,None,Condo,No,3,464
+6838 S South Shore Dr APT 3,60649,182500,2500,73,3,3,2,1934,Gas,null,None,Condo,No,3,667
+3656 N Lotus Ave,60641,329900,1222,270,4,3,1,1925,Forced air,Central,Garage - Detached: Covered,Single Family,null,null,null
+770 W Gladys Ave APT 605,60661,394900,1200,329,2,2,2,2006,Forced air: Gas,Central,Off-street: Covered,Condo,null,7,538
+4624 S Greenwood Ave UNIT GN,60653,204900,1600,128,3,2,2,2007,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,182
+10628 S Hamilton Ave,60643,399900,1426,280,3,2,1,1957,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,1,null
+1930 W Morse Ave,60626,360000,null,NaN,6,3,2,1880,Baseboard,null,Covered,Multiple Occupancy,null,null,null
+734 W 129th Pl,60628,146000,1440,101,3,2,1,1952,Forced air,Central,Garage - Detached: Covered,Single Family,null,1,null
+1511 N Paulina St #1R,60622,549000,null,NaN,3,3,2,1989,Forced air: Gas,Central,Garage - Detached: Covered,Townhouse,null,3,null
+3173 W Monroe St APT 3,60612,154900,1275,121,3,2,2,2002,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,3,150
+7725 N Ashland Ave #3,60626,110000,1450,76,2,1,1,1908,Radiant,Wall,None,Condo,No,3,688
+2100 N Lincoln Park W APT 11AS,60614,449900,1400,321,3,2,2,null,Gas,Central,Garage - Attached: Covered,Condo,null,9,946
+10805 S Campbell Ave,60655,299000,1297,231,3,2,2,1950,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2440 N Lakeview Ave #7D,60614,389000,1500,259,2,2,2,1927,Gas,null,Garage - Detached: Covered,Condo,null,9,1629
+3860 W Maypole Ave,60624,140000,750,187,4,2,2,1910,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+78 E Elm St APT 1,60611,439000,1500,293,2,2,2,1914,Forced air: Gas,Central,None,Condo,No,1,227
+2245 N Rockwell St #3,60647,775000,null,NaN,4,3,3,2020,Gas,Central,Garage - Detached: Covered,Townhouse,null,3,150
+9943 S Paxton Ave,60617,62000,1386,45,3,2,1,1949,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+5530 S Meade Ave,60638,369900,1200,308,3,2,2,1954,null,null,Garage - Detached: Covered,Single Family,null,1,null
+549 W Belden Ave APT 1RE,60614,360000,900,400,2,2,2,1894,Forced air: Gas,Central,None: Covered,Condo,null,4,228
+1411 N Fairfield Ave,60622,500000,1240,403,9,6,3,1897,Other: Gas,Central,Off-street: Covered,Multiple Occupancy,null,null,null
+4424 N Monticello Ave,60625,329900,2016,164,4,3,3,1914,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5847 S Natchez Ave,60638,217900,1170,186,3,1,1,1957,Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+7757 S Evans Ave,60619,165000,4272,39,6,4,4,null,null,null,null,Multiple Occupancy,No,null,null
+7047 S Ada St,60636,25000,null,NaN,4,2,2,null,null,null,Off-street,Multiple Occupancy,No,2,null
+5415 N Sheridan Rd APT 4411,60640,289900,1200,242,2,2,2,1973,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,974
+4001 E 134th St TRAILER 146,60633,12500,840,15,2,2,2,1987,Heat pump: Stove: Electric: Wood / Pellet,Central: Other,Garage,Mobile / Manufactured,No,null,600
+723 N Lockwood Ave,60644,260000,3780,69,5,4,4,1910,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+5061 N Kimberly Ave,60630,299000,760,393,4,2,2,1958,Forced air,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+405 N Wabash Ave UNIT 513,60611,279999,1000,280,2,1,1,1977,Forced air: Gas,Central,Garage: None: Covered,Condo,No,9,654
+4942 S Princeton Ave,60609,25000,null,NaN,4,3,3,null,Baseboard,null,None,Single Family,No,null,null
+4908 N Harding Ave,60625,315000,1084,291,6,2,2,1993,Gas,Central,Garage - Detached: Covered,Single Family,null,null,170
+4940 S East End Ave APT 2B,60615,250000,1500,167,3,3,3,1929,Gas,null,Covered,Condo,null,9,1048
+3950 N Lake Shore Dr #2010B,60613,189000,1215,156,3,2,1,1956,null,null,Garage - Attached: Covered,Condo,null,9,900
+726 W Garfield Blvd,60609,5998771,6270,957,12,6,5,1890,Gas,null,Garage: Garage - Detached: Covered,Single Family,null,4,null
+5727 S Michigan Ave #G,60637,59000,1300,45,2,2,2,1901,Forced air,Central,None,Condo,No,1,100
+1529 S State St #TOWNHOUSE 5,60605,400000,1955,205,3,3,2,2001,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,1045
+2032 N Burling St #2,60614,499000,1600,312,2,2,2,2012,Forced air: Gas,Central,Garage: None: Covered,Condo,null,3,169
+4432 S Prairie Ave #2,60653,189500,1500,126,3,2,2,1884,Gas,Central,Covered,Condo,null,3,220
+2740 N Pine Grove Ave APT 6D,60614,300000,1150,261,2,2,2,1974,Baseboard: Electric,null,Garage - Attached: Covered,Condo,null,9,517
+1550 W Asher St,60643,265000,2400,110,3,4,3,2010,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,2,150
+920 W Sheridan Rd APT 302,60613,360000,1400,257,2,2,1,null,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,4,445
+2627 N Sheffield Ave,60614,450000,null,NaN,2,2,2,null,null,null,Garage - Detached: Covered,Condo,null,3,180
+9729 S Seeley Ave,60643,339000,1985,171,5,2,1,1921,Forced air: Gas,Partial,Garage - Detached: Covered,Single Family,null,null,null
+8507 S Manistee Ave,60617,230000,2100,110,3,2,2,1924,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+208 W Washington St APT 1113,60606,259000,1150,225,2,2,2,1923,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,9,693
+2700 N Hampden Ct APT 21C,60614,339900,1000,340,2,2,2,1968,null,null,Garage - Attached: Covered,Single Family,null,25,669
+454 W Wrightwood Ave APT 2B,60614,339000,1200,283,2,2,1,1906,Forced air: Gas,Central,None,Condo,No,3,249
+3524 W 85th St,60652,260000,1138,228,3,2,2,1957,null,null,Garage - Detached: Covered,Single Family,null,null,null
+2133 N Sayre Ave,60707,417201,2352,177,4,3,2,1924,Radiant: Gas,Other,Garage: None: Covered,Single Family,null,null,null
+2728 W Cortez St #1,60622,284900,1450,196,3,2,2,2004,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,4,250
+4147 S Calumet Ave,60653,649000,3300,197,5,4,3,2020,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+30 E Division St APT 2A,60610,214900,936,230,1,1,1,1973,Electric,null,Garage - Attached: Covered,Condo,null,9,577
+4616 S Spaulding Ave,60632,309000,null,NaN,4,3,3,1924,Electric: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+1702 N Orchard St APT C,60614,540000,1831,295,2,3,2,1983,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Townhouse,null,2,100
+2948 N Laramie Ave #7,60641,49900,800,62,1,1,1,1930,Gas,None,null,Condo,No,null,null
+7926 S Escanaba Ave,60617,39900,888,45,3,2,1,1895,Forced air,Central,Garage - Detached: None: Covered,Single Family,null,null,null
+1700 N Harding Ave,60647,699000,3000,233,5,4,3,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1812 S Hamlin Ave,60623,299000,1722,174,4,2,2,1900,Gas,null,None,Multiple Occupancy,No,null,null
+5016 N Natoma Ave,60656,249900,868,288,3,1,1,1953,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+7738 N Sheridan Rd APT 3L,60626,264900,1240,214,2,2,2,2003,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,4,314
+345 W Fullerton Pkwy APT 802,60614,164900,null,NaN,1,1,1,1972,Forced air,Central,Garage - Attached: Covered,Condo,null,9,450
+9137 S Michigan Ave,60619,110000,1286,86,3,2,1,1945,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+7801 S Drexel Ave,60619,199999,1301,154,4,3,3,1942,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3406 N Seminary Ave #2,60657,299000,1300,230,2,2,2,1998,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,1,99
+2535 W Monroe St,60612,235000,1100,214,3,1,1,null,Forced air,Central,Covered,Single Family,null,null,null
+2131 N Clark St APT 1,60614,600000,1,600000,3,3,2,1976,Forced air: Electric,Central,Off-street: Covered,Condo,null,3,527
+5306 N Cumberland Ave APT 306-3,60656,120000,1100,109,2,2,2,1976,Gas,null,Garage - Attached: Covered,Condo,null,5,361
+7728 N Sheridan Rd,60626,499999,2097,238,3,2,2,1918,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5751 W Ainslie St,60630,699900,3104,225,4,4,3,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+73 E Elm St APT 7C,60611,399000,1200,333,2,1,1,1928,null,null,None,Condo,No,9,948
+7520 W Addison St,60634,175000,920,190,3,2,2,1922,null,null,Garage - Detached: Covered,Single Family,null,null,null
+3432 W Belden Ave #G,60647,299900,1200,250,2,2,2,1902,Gas,Central,Garage - Detached: Covered,Condo,null,2,195
+6606 S University Ave #3,60637,279000,1277,218,2,2,2,2020,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,123
+6741 N Oliphant Ave,60631,725000,3050,238,4,5,4,2005,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,248
+7800 S Crandon Ave,60649,215000,2304,93,4,4,3,1935,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+706 N Trumbull Ave,60624,199000,1600,124,4,3,3,1905,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+11156 S Trumbull Ave,60655,169900,2407,71,5,3,3,1915,None: Forced air,Central,Garage - Detached: Covered,Single Family,null,null,null
+5717 N Talman Ave,60659,400000,1673,239,4,3,2,1954,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4858 S Champlain Ave #1S,60615,350000,2600,135,3,3,3,2003,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,332
+833 W Buckingham Pl #7,60657,424900,1150,369,3,2,1,2015,Forced air: Gas,Central,Garage: None,Condo,No,2,214
+714 W Fullerton Ave #2,60614,414500,1700,244,3,2,2,1926,Radiant,Central,Garage - Detached: Covered,Condo,null,3,404
+8743 S Kenwood Ave,60619,179000,1600,112,3,2,2,1943,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+10817 S Prospect Ave,60643,239900,1445,166,3,2,1,1911,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1150 N Lake Shore Dr #21GH,60611,519000,2150,241,3,3,3,1957,Baseboard: Gas,Refrigerator,Garage: Garage - Attached: Covered,Condo,null,9,1860
+1820 N Richmond St,60647,515000,1450,355,3,2,2,1892,Forced air: Gas,Central,Garage: Covered,Single Family,null,null,null
+1516 N Maplewood Ave,60622,650000,2200,295,3,3,2,1877,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3006 W 103rd St,60655,249900,1400,179,4,2,1,1972,Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,null,null
+2735 W Armitage Ave APT 202,60647,334900,1350,248,2,2,2,1912,Forced air: Gas,Central,Off-street: Covered,Condo,null,5,354
+6053 N Keeler Ave,60646,335000,986,340,2,4,2,1954,Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+2950 W Palmer St #2C,60647,410000,1607,255,3,2,2,1909,Forced air: Gas,Central,Covered,Condo,null,2,443
+1000 N Lake Shore Dr APT 1604,60611,200000,800,250,1,1,1,1954,null,None,Garage - Attached: Covered,Condo,null,9,779
+4332 N St Louis Ave,60618,399000,null,NaN,6,3,null,1924,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+6606 S University Ave #1,60637,399000,2450,163,3,3,2,2020,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,3,178
+2024 S Wabash Ave APT 204,60616,299900,1320,227,2,2,2,1920,Gas,Central,Garage - Attached: Covered,Condo,null,7,564
+5622 N Mulligan Ave,60646,295000,2000,148,3,2,2,1906,Forced air: Gas,Central,Garage: Carport: Covered,Single Family,null,null,null
+941 W Altgeld St,60614,594000,2152,276,3,2,1,1881,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+860 N Lake Shore Dr #4M,60611,299900,1600,187,2,2,2,1951,null,null,Garage - Attached: Covered,Condo,null,9,2917
+3958 S Drexel Blvd,60653,979900,4000,245,5,5,4,2019,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+5040 N Western Ave,60625,365000,1600,228,3,3,2,1904,null,null,Garage - Detached: Covered,Single Family,null,null,null
+832 W Barry Ave #2,60657,459000,1500,306,3,3,2,1989,Forced air: Gas,Central,None: Covered,Townhouse,null,3,110
+3604 W 117th St,60655,219900,1966,112,3,2,2,1957,Gas,Central,Garage: Covered,Single Family,null,null,null
+2940 W Sherwin Ave,60645,349900,1747,200,4,2,2,1925,Baseboard,Other,Garage - Detached: None: Covered,Single Family,null,null,null
+833 W Lakeside Pl,60640,699900,2172,322,3,3,2,1906,Other,None,Garage - Detached: Covered,Single Family,null,null,null
+235 W Van Buren St UNIT 2108,60607,161820,696,233,1,1,1,2010,Forced air,Central,Garage - Attached,Condo,No,9,279
+9544 S Winchester Ave,60643,575000,3627,159,4,4,4,1921,Forced air: Radiant: Gas,Central,Garage - Detached: Off-street: On-street: Covered,Single Family,null,2,null
+1845 N California Ave #2,60647,329900,1278,258,3,2,1,2005,Gas,Central,Covered,Condo,null,3,225
+4309 N Bernard St,60618,239900,1254,191,4,2,1,1905,Gas,Central,Garage - Detached: None: Covered,Single Family,null,null,null
+2672 N Orchard St APT A,60614,735000,null,NaN,3,3,3,1999,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Townhouse,null,3,210
+2636 N Orchard St APT 2F,60614,375000,1200,313,2,2,2,1890,Forced air: Gas,Central,None: Covered,Condo,null,4,265
+9043 S Cornell Ave,60617,189500,1388,137,3,3,2,1952,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5434 S Ingleside Ave,60615,565000,2044,276,4,3,2,1895,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+8038 S Dobson Ave,60619,134900,null,NaN,4,3,2,1925,null,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+6357 N Natoma Ave,60631,350000,1253,279,3,2,2,1943,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+6631 N Maplewood Ave,60645,495900,2300,216,3,2,2,1926,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+222 E Pearson St APT 2109,60611,300000,1002,299,2,1,1,1963,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,833
+1622 N Hamlin Ave,60647,499900,2600,192,4,3,2,1896,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2779 N Kenmore Ave,60614,599000,1600,374,2,2,1,1888,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,3,null
+5052 N Marine Dr APT D4,60640,103000,1000,103,2,1,1,1939,Other,Other,None: Covered,Condo,null,8,550
+2540 N Kedzie Blvd APT G7,60647,199500,900,222,1,1,1,null,Forced air: Gas,Central,None,Condo,No,3,191
+10416 S Walden Pkwy,60643,270000,1244,217,2,3,2,1999,Gas,Central,Garage - Attached: Covered,Townhouse,null,2,120
+3918 W Cortland St #1,60647,210000,1200,175,3,2,1,1929,Forced air: Gas,Central,None: Covered,Condo,No,4,322
+9612 S Seeley Ave,60643,284900,1118,255,3,3,3,1911,Other: Gas,None,Garage: Covered,Single Family,null,2,null
+2550 N Lakeview Ave UNIT S3802,60614,6750000,4250,1588,3,4,3,2011,Heat pump: Gas,Central,Garage - Attached: Covered,Condo,null,9,4200
+2133 N Lincoln Ave,60614,849000,2144,396,4,3,2,1970,Forced air: Gas,Central,Garage: Covered,Townhouse,null,3,560
+4345 S Forrestville Ave,60653,475000,2700,176,4,4,3,1885,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+840 N Lake Shore Dr APT 2601,60611,13500000,8800,1534,6,8,6,2007,Forced air: Electric,Central,Garage - Attached: Covered,Condo,null,9,8542
+2145 N Lincoln Ave,60614,395000,1092,362,2,1,1,1974,Gas,Central,Garage: Covered,Townhouse,null,2,280
+626 W Wrightwood Ave SIDE 1E,60614,435000,1600,272,2,2,2,1997,Forced air: Gas,Central,None: Covered,Condo,null,4,414
+2227 N Kimball Ave APT G,60647,149900,824,182,2,1,1,2014,Forced air: Gas,Central,None,Condo,No,3,119
+404 E 46th St #C4,60653,269900,3000,90,4,4,3,2007,Forced air,Central,Garage - Attached: Covered,Townhouse,null,4,230
+1631 S Michigan Ave APT 506,60616,344900,1245,277,2,2,2,1920,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,6,572
+1734 N Saint Louis Ave,60647,279900,2710,103,9,3,3,1886,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+2014 W Walton St,60622,660000,2600,254,4,3,2,1895,Gas,null,Garage - Detached: None: Covered,Single Family,null,null,null
+5527 S University Ave APT 1E,60637,139900,1061,132,2,1,1,1923,Gas,null,None,Condo,No,4,664
+3146 N Kilbourn Ave,60641,329900,1000,330,5,3,3,1926,Baseboard: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+3722 W 63rd Pl,60629,189500,1332,142,3,2,2,1962,Forced air: Gas,Central,Garage: None,Single Family,No,null,null
+1415 N Dearborn St APT 8A,60610,245000,1300,188,2,2,2,1975,Forced air: Electric,Central,Garage: Garage - Attached: Covered,Condo,null,9,1088
+6115 S Archer Ave S #2C,60638,124900,1000,125,2,1,1,1972,Electric,Central,Covered,Condo,null,3,130
+6120 W 65th St UNIT 4,60638,269900,1913,141,3,3,2,2005,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,2,75
+1301 W 73rd St,60636,150000,1683,89,6,2,2,1927,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+3413 S Prairie Ave,60616,399000,3000,133,4,5,4,1890,Forced air: Gas,Central,Garage: None: Covered,Single Family,null,null,null
+1312 E 54th St #1-B,60615,200000,1200,167,2,2,1,1920,null,null,Garage - Detached: Covered,Condo,null,3,600
+3240 N Sheffield Ave STE 1,60657,300000,1600,188,4,2,1,1999,Gas,Central,None,Condo,No,4,200
+10848 S Bell Ave,60643,525000,3200,164,5,3,2,1911,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+6456 S Sangamon St,60621,179000,3600,50,4,3,2,1940,null,null,Garage - Detached: Covered,Single Family,null,null,null
+2853 W Congress Pkwy,60612,229000,1222,187,3,3,2,2020,Gas,Central,Garage - Detached: Covered,Townhouse,null,3,250
+3100 N Sheridan Rd APT 1B,60657,299900,1200,250,2,1,1,1923,Other,Wall,Garage: Garage - Detached: Covered,Condo,null,9,863
+1 E Scott St #1502-1503,60610,439000,1300,338,1,2,1,1970,Forced air: Electric,Central,Garage - Attached: Covered,Condo,null,9,1205
+2911 N Western Ave APT 206,60618,314900,1500,210,2,2,2,1921,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,5,405
+3651 W Lexington St,60624,350000,null,NaN,5,3,null,1895,Forced air: Gas,null,Covered,Multiple Occupancy,null,null,null
+1319 N Wicker Park Ave #2,60622,364900,1100,332,2,2,2,2008,Forced air: Gas,Central,None,Condo,No,3,125
+5482 S Ridgewood Ct,60615,675000,3029,223,4,2,1,1898,Gas,null,None,Townhouse,No,3,null
+10430 S Wabash Ave,60628,45000,840,54,5,2,1,1915,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+1259 N Wood St APT 105,60622,399900,null,NaN,2,2,1,1909,Forced air: Gas,Central,Garage: Covered,Condo,null,4,298
+154 Balderson Dr,43147,384990,2596,148,3,2,2,2020,null,null,Covered,Single Family,null,2,null
+5915 W Dakin St,60634,349000,1859,188,3,2,2,1906,Forced air,Central,Garage - Detached: Covered,Single Family,null,null,null
+10606 S Parnell Ave,60628,224900,2000,112,4,3,2,1949,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5920 N Northwest Hwy,60631,399900,2800,143,3,5,4,2008,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,4,243
+33 E Cedar St APT 14C,60611,155000,800,194,1,1,1,1958,Baseboard,null,None,Condo,No,9,621
+1827 W Cuyler Ave,60613,599900,1400,429,5,4,4,1900,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+2940 W Wilcox St,60612,219900,1600,137,4,2,1,1890,Forced air: Gas,Central,Covered,Townhouse,null,2,null
+6022 S Komensky Ave,60629,419900,3200,131,9,3,3,1964,null,null,null,Multiple Occupancy,No,null,null
+350 W Belden Ave APT 305,60614,299000,1130,265,2,2,2,1991,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,7,510
+542 W Arlington Pl #E,60614,470000,1400,336,3,2,2,1975,Baseboard: Forced air: Gas,Central,Garage - Detached: Covered,Townhouse,null,3,239
+1449 W Harrison St,60607,435000,1880,231,3,3,2,1985,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,457
+5535 S Kolin Ave,60629,259900,2283,114,4,2,2,1949,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3633 W Lexington St,60624,159900,null,NaN,5,3,3,1900,null,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+3316 N Neenah Ave,60634,362500,2000,181,4,2,2,1928,Forced air: Solar,Central,Garage - Detached: Covered,Single Family,null,null,null
+4838 W Roscoe St,60641,279900,1075,260,2,1,1,1923,Forced air,Central,Garage - Detached: Covered,Single Family,null,null,null
+1211 N Honore St #B,60622,289900,1300,223,2,2,2,1892,Forced air: Gas,Central,None,Condo,No,3,224
+2810 S Karlov Ave,60623,154900,2248,69,3,2,2,1910,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+5132 W Strong St,60630,285000,null,NaN,5,3,3,1978,Baseboard: Forced air: Gas,null,Covered,Multiple Occupancy,null,null,null
+1101 S State St #H506,60605,170000,800,213,1,1,1,2005,Gas,Central,Garage - Attached: Covered,Condo,null,9,602
+9737 S Hoyne Ave,60643,475000,3900,122,4,3,3,1924,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4654 N Kenmore Ave #GN,60640,215000,1363,158,3,2,1,1927,Forced air: Gas,Central,None,Condo,No,3,217
+3900 N Lake Shore Dr APT 13J,60613,149000,630,237,1,1,1,1958,Forced air: Gas,Central: Other,None: Covered,Condo,No,1,604
+4443 N Moody Ave,60630,279000,1196,233,4,2,2,1918,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+6920 S South Shore Dr APT 3A,60649,84900,1033,82,2,2,2,1919,Gas,Central,None: Covered,Condo,null,3,275
+3524 W Melrose St,60618,499900,1075,465,3,3,3,1900,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+7543 W Forest Preserve Ave,60634,274900,1564,176,4,4,3,1925,Forced air: Gas,Central,Garage: None,Single Family,No,null,null
+6728 S Sangamon St,60621,31000,1760,18,3,1,1,1890,Baseboard: Forced air: Heat pump: Other: Radiant: Stove: Wall: Gas: Geothermal,Refrigerator: Central: Evaporative: Geothermal: Solar: Wall,None,Single Family,No,null,null
+558 W Armitage Ave #A2,60614,525000,1450,362,2,3,2,1971,Forced air: Gas,Central,Off-street: Covered,Townhouse,null,2,280
+5159 N East River Rd #211F,60656,139900,1000,140,2,2,1,1979,Baseboard: Gas,null,Covered,Condo,null,3,301
+1705 W Le Moyne St APT B,60622,525000,2100,250,3,3,2,1998,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,60
+3618 N Lakewood Ave APT F,60613,525000,1700,309,3,2,2,1992,Forced air: Gas,Central,Garage - Detached: Covered,Townhouse,null,3,100
+2210 N Central Park Ave,60647,445900,1196,373,3,3,2,1905,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+500 S Clinton St APT 643,60607,264000,1347,196,2,2,2,1898,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,655
+2507 N Lotus Ave,60639,259000,2428,107,5,3,3,1920,Other: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+2548 W Haddon Ave,60622,575000,1700,338,4,2,2,1887,Forced air: Gas,Central,Garage - Detached: Off-street: Covered,Single Family,null,null,null
+5454 N Lynch Ave,60630,379900,1404,271,3,2,1,1959,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+130 S Canal St APT 714,60606,314000,1260,249,2,2,2,1949,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,1,763
+2346 N Geneva Ter #1,60614,395000,1300,304,3,2,2,1911,Other,Refrigerator,None,Condo,No,3,431
+824 W 122nd St,60643,144900,1680,86,5,2,2,1957,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1224 W Van Buren St APT 508,60607,279500,1068,262,2,2,1,2006,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,8,577
+1415 W Lunt Ave APT 311,60626,159000,1100,145,2,2,1,1965,Forced air: Gas,Other,Garage: Garage - Attached: Covered,Condo,null,4,339
+2650 W Belden Ave #106,60647,374900,1306,287,2,2,2,2003,Forced air: Electric,Central,None: Covered,Condo,null,3,348
+8549 S Muskegon Ave,60617,129900,null,NaN,6,2,2,1950,null,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+233 E Erie St APT 2105,60611,159888,855,187,1,1,1,1968,Forced air: Gas,Central,Garage - Attached: Covered,Condo,No,9,872
+9210 S Elizabeth St,60620,340000,2733,124,5,3,3,1928,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4152 N Saint Louis Ave,60618,320000,1468,218,4,3,3,1900,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5924 N Sauganash Ln,60646,399000,2000,200,3,3,2,1989,Forced air: Gas,Central,Garage - Detached: Covered,Townhouse,null,2,330
+8215 W Summerdale Ave,60656,429000,2500,172,3,2,2,1986,Baseboard: Other: Radiant: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+1701 W 85th St,60620,170000,1128,151,5,2,2,1948,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+9802 S Chappel Ave,60617,103871,1083,96,3,2,1,1940,Gas,Central,Garage: None,Single Family,No,null,null
+2654 W Medill Ave APT 106,60647,325000,13400,24,2,1,1,1921,Forced air: Gas,Central,Covered,Condo,null,3,272
+1746 N Cleveland Ave APT 2,60614,470000,1400,336,2,2,2,1891,Forced air: Gas,Central,None,Condo,No,3,180
+947 E Hyde Park Blvd #G,60615,90000,1000,90,2,1,1,null,Gas,null,None,Condo,No,3,400
+8734 S Laflin St,60620,140000,1800,78,5,2,2,1921,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5842 N Marmora Ave,60646,365000,1434,255,3,3,1,1928,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+300 W Grand Ave APT 212,60654,385800,1250,309,2,2,2,1928,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,6,491
+3616 W Augusta Blvd #2,60651,87900,900,98,2,1,1,1910,Forced air: Gas,Central,None,Condo,No,2,150
+2856 N Francisco Ave,60618,299000,1724,173,3,2,2,1909,Gas,null,Garage: None: Covered,Single Family,null,null,null
+9707 S Winchester Ave,60643,365000,3185,115,5,2,2,1949,None: Radiant,Central,Garage - Detached: Covered,Single Family,null,null,null
+4315 N Mcvicker Ave,60634,279900,792,353,3,2,1,1928,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1503 S State St APT 313,60605,215000,1000,215,1,2,2,2004,Forced air: Gas,Central,None,Condo,No,8,425
+7255 S Yale Ave,60621,99900,3400,29,9,3,3,null,null,null,null,Multiple Occupancy,No,null,null
+5836 S Natoma Ave,60638,465000,2020,230,4,4,3,2014,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2743 N Ridgeway Ave,60647,285000,null,NaN,4,2,2,1901,Forced air: Gas,null,Covered,Multiple Occupancy,null,null,null
+5467 S Ingleside Ave APT 1E,60615,199999,null,NaN,2,1,1,1920,Other,Refrigerator,None,Condo,No,4,295
+4706 N Avers Ave,60625,225000,3125,72,5,0,null,1908,Forced air: Gas,Central,Garage - Detached: None: Covered,Single Family,null,null,null
+235 W Van Buren St UNIT 2105,60607,359900,1039,346,2,2,2,2009,Gas,Central,Garage - Attached: Covered,Condo,null,9,419
+2243 N Lincoln Ave APT 2B,60614,225000,null,NaN,1,1,1,1974,Forced air: Gas,Central,None,Condo,No,3,185
+4918 S Indiana Ave #1N,60615,184900,null,NaN,3,2,2,1900,Forced air: Gas,null,Covered,Condo,null,4,205
+2328 N Rockwell St,60647,724500,1000,725,5,3,3,2000,Forced air: Gas,Central,Covered,Multiple Occupancy,null,null,null
+6958 N Ottawa Ave,60631,347000,1285,270,3,2,1,1964,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+625 W Jackson Blvd APT 202,60661,229900,826,278,1,1,1,1895,Forced air: Gas,Central,Garage: Garage - Detached: Off-street: Covered,Condo,null,8,440
+11140 S Kedzie Ave,60655,144900,970,149,3,1,1,1924,Forced air: Gas,Central,Garage: None,Single Family,No,null,null
+1512 N Campbell Ave #1,60622,499900,2320,215,3,3,3,2000,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,3,250
+3525 N Sheffield Ave #2,60657,469000,1800,261,3,2,2,1899,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,2,194
+1932 N Honore St,60622,919900,null,NaN,3,3,3,null,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2042 W Moffat St,60647,770000,1594,483,4,3,3,2015,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1122 W Catalpa Ave APT 615,60640,210000,1054,199,2,2,1,2007,Gas,Central,Garage - Attached: Covered,Condo,null,9,604
+4706 N Malden St,60640,599000,3696,162,7,5,3,1898,Other,null,Garage - Detached: Covered,Single Family,null,null,null
+1222 N Hamlin Ave,60651,84900,1089,78,5,2,2,1884,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2124 N Hudson Ave APT 402,60614,399900,1100,364,2,2,2,1932,Forced air: Gas,Central,Covered,Condo,null,4,293
+1259 N Wood St APT 204,60622,479900,1200,400,3,2,1,1997,Forced air: Gas,Central,Garage: Off-street: Covered,Condo,null,4,312
+4459 S Ellis Ave,60653,359000,1948,184,6,5,4,1894,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+6171 N Sheridan Rd APT 1809,60660,100000,850,118,1,1,1,1971,Baseboard,null,Garage - Attached: Covered,Condo,null,9,523
+11307 S Wallace St,60628,50000,876,57,2,1,1,1920,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+4718.5 N Beacon St #1N,60640,204900,null,NaN,2,1,1,1932,Forced air: Gas,Central,None,Condo,No,3,null
+629 W Sheridan Rd APT 3C,60613,225000,900,250,2,1,1,1920,Forced air: Gas,Central,None: Covered,Condo,null,3,210
+2139 W Gladys Ave #1,60612,245000,1200,204,3,2,2,2020,Gas,Central,Covered,Townhouse,null,2,null
+4422 N Racine Ave APT 3S,60640,300000,1600,188,3,2,2,1910,Other,Refrigerator,Garage: Covered,Condo,null,3,345
+5624 S Melvina Ave,60638,369000,2600,142,5,3,3,1945,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+10605 S Avenue G,60617,140000,1250,112,5,1,1,1918,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+124 W Polk St APT 107,60605,195000,1500,130,1,1,1,1910,Forced air: Electric,Central,None,Condo,No,1,690
+5029 N Bernard St,60625,570000,3000,190,5,5,4,1917,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+6701 S Crandon Ave APT 5A,60649,125000,1155,108,2,1,1,1962,Gas,Central,Covered,Condo,null,9,486
+222 N Columbus Dr APT 3703,60601,399900,1177,340,2,2,2,2004,Forced air,Central,None,Condo,No,9,925
+5812 S Newcastle Ave,60638,314900,1004,314,3,2,2,1956,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3520 W Van Buren St,60624,288000,1200,240,7,2,2,1901,Forced air,null,On-street: Covered,Multiple Occupancy,null,null,null
+660 E 51st St #2W,60615,239000,1600,149,3,2,2,1903,Gas,Central,Covered,Condo,null,3,325
+5018 S Woodlawn Ave APT 3N,60615,184900,1536,120,4,2,2,1921,null,null,Covered,Condo,null,3,684
+1412 W Touhy Ave,60626,549000,2000,275,4,2,1,1893,Forced air: Gas,Central,Garage: Covered,Single Family,null,null,null
+3750 N Lake Shore Dr APT 1D,60613,295000,1643,180,2,2,2,1930,Other: Gas,Central,Garage - Attached: Covered,Condo,null,9,1450
+5336 N Laramie Ave,60630,339000,1572,216,3,3,3,1924,Forced air: Gas,Central,Garage: Off-street: Covered,Single Family,null,null,null
+4800 S Lake Park Ave APT 2412,60615,35000,1175,30,2,1,1,1970,Gas,Central,Garage - Detached,Condo,No,9,1128
+500 S Clinton St APT 511,60607,258000,1000,258,2,2,2,1898,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,425
+6166 N Sheridan Rd APT 8E,60660,149900,1200,125,2,2,1,1970,Forced air,Other,Garage: None: Covered,Condo,null,9,1026
+2709 W Altgeld St #1,60647,365000,1375,265,3,2,2,1923,Gas,Central,None,Condo,No,3,266
+4124 W Jackson Blvd,60624,149000,null,NaN,5,2,2,1905,Gas,null,None,Multiple Occupancy,No,null,null
+3150 W Byron St #1,60618,229000,1200,191,3,2,2,1940,Gas,Central,None,Condo,No,3,259
+2739 W Thomas St APT 1,60622,499000,2300,217,3,3,3,2006,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,216
+7731 S Paulina St,60620,199000,null,NaN,4,2,2,1922,Gas,null,Covered,Multiple Occupancy,null,null,null
+3225 W Hirsch St,60651,289900,1026,283,3,1,1,1964,Gas,null,Garage: Covered,Single Family,null,null,null
+155 W Burton Pl APT 5,60610,299900,907,331,1,1,1,1917,Baseboard,null,Garage - Detached: Covered,Townhouse,null,3,436
+1733 N Troy St,60647,759900,3100,245,4,4,3,2018,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1127 W Wrightwood Ave #1W,60614,649000,2129,305,3,3,3,1998,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,234
+3840 N Panama Ave,60634,339900,1603,212,6,3,3,1933,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3823 S Wabash Ave APT 1S,60653,314900,2700,117,4,3,3,2005,Forced air: Gas,Central,Covered,Condo,null,6,327
+4446 S Prairie Ave,60653,359000,4500,80,6,5,5,1885,Gas,null,None,Single Family,No,null,null
+2422 W 35th St,60632,550000,3000,183,3,3,3,2020,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5858 S Natchez Ave,60638,475000,3018,157,3,2,2,1954,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4428 S Calumet Ave APT 1,60653,245000,1550,158,3,2,2,2004,Forced air: Gas,Central,Garage: Covered,Condo,null,4,345
+817 S Loomis St,60607,439000,2250,195,3,3,2,1971,Forced air: Gas,Central,Garage: None: Covered,Townhouse,null,2,125
+4627 N Beacon St UNIT 1B,60640,479000,1400,342,3,2,2,2017,Gas,Central,Garage: Garage - Detached: Covered,Condo,null,3,137
+3347 W Monroe St,60624,379900,1896,200,6,3,3,1900,Forced air: Gas,null,Garage - Detached: None: Covered,Multiple Occupancy,null,null,null
+3244 W Diversey Ave,60647,499999,null,NaN,5,3,3,1896,Gas,null,Covered,Multiple Occupancy,null,null,null
+3306 W 37th Pl,60632,229900,null,NaN,5,3,2,1893,Forced air: Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+7628 S Essex Ave #2N,60649,55000,1100,50,3,2,2,1920,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,null,180
+2954 E 80th Pl,60617,17500,672,26,3,1,1,1893,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+1040 N Central Park Ave,60651,114900,null,NaN,4,2,2,1915,Forced air: Other,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+2021 W Arthur Ave UNIT E1,60645,229900,1600,144,3,2,2,1923,Forced air: Gas,Other,null,Condo,No,null,346
+6121 W Newport Ave,60634,379900,2077,183,3,2,2,1926,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+360 W Illinois St APT 2B,60654,899000,2100,428,3,2,2,2000,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,8,801
+1639 N Sedgwick St,60614,725000,1608,451,3,2,2,1876,Forced air: Gas,Central,Garage: None,Single Family,No,2,null
+10310 S Seeley Ave,60643,449999,2058,219,4,3,2,1935,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+2003 W Ohio St,60612,750000,3000,250,4,4,3,1892,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1645 W Ogden Ave UNIT 822,60612,379900,1319,288,3,2,2,1923,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,8,615
+5601 N Sheridan Rd APT 19E,60660,169000,1200,141,2,2,2,1968,Forced air,null,Garage - Attached: Covered,Condo,null,9,843
+1429 W Rosemont Ave #3W,60660,199900,1500,133,2,1,1,1920,null,null,Garage - Detached: Covered,Condo,null,3,395
+10925 S Vernon Ave,60628,169999,1000,170,4,3,null,1917,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+1821 N Lincoln Park W,60614,2500000,3800,658,4,4,3,1895,Electric,null,Garage - Detached: Covered,Single Family,null,null,null
+1945 W Evergreen Ave APT GF,60622,375000,1500,250,3,2,2,1880,Forced air: Gas,Central,Off-street: Covered,Condo,null,3,226
+253 E Delaware Pl APT 10E,60611,132000,600,220,0,1,1,1975,Radiant,Wall,Garage - Attached: Covered,Condo,null,9,434
+1733 S Ruble St #2,60616,399999,1800,222,3,3,2,2008,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,4,200
+1339 W Lunt Ave APT 2M,60626,189000,1352,140,2,2,2,1930,null,null,None,Condo,No,3,533
+2342 W North Ave #301,60647,515000,1500,343,3,2,2,2008,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,4,140
+6528 N Bosworth Ave,60626,675000,4713,143,9,3,null,1916,Forced air,None,null,Multiple Occupancy,No,null,null
+9742 S Leavitt St,60643,314900,945,333,3,3,2,1954,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+8215 W Catherine Ave,60656,389900,1632,239,3,3,2,1965,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+8015 S Princeton Ave,60620,79900,1474,54,4,2,2,1925,Gas,null,Garage: None,Single Family,No,null,null
+2840 N Lincoln Ave APT G,60657,399000,1378,290,2,2,2,1999,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Townhouse,null,5,329
+21 E Huron St APT 4501,60611,8500000,6000,1417,3,4,3,2004,Forced air: Electric,Central,Garage: Garage - Attached: Covered,Condo,null,9,5591
+1314 W 52nd St,60609,95000,1520,63,3,1,1,2007,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+412 W Wellington Ave,60657,639000,2672,239,3,4,3,1939,Forced air: Gas,Central,Garage: Off-street: Covered,Townhouse,null,2,290
+1029 N Honore St,60622,1125000,2800,402,3,4,3,1908,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3755 N Pine Grove Ave #3,60613,299900,1500,200,2,2,2,1978,Other,Refrigerator,None,Condo,No,3,522
+3739 W Ferdinand St,60624,189000,1400,135,4,2,2,1888,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+1617 W Le Moyne St,60622,649000,2136,304,4,4,3,1895,Forced air: Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+2707 N Lincoln Ave APT H,60614,650000,1800,361,3,3,3,1996,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,4,250
+716 E 90th St,60619,1799001,null,NaN,10,4,4,1910,Forced air: Gas,null,None,Multiple Occupancy,No,null,null
+839 E 87th Pl,60619,139900,null,NaN,5,3,3,1921,Forced air: Gas,null,None,Multiple Occupancy,No,null,null
+4511 N Lavergne Ave,60630,369000,1278,289,4,1,1,1918,Forced air: Electric: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+55 W Erie St APT 1W,60654,435000,1700,256,3,2,1,1882,Forced air: Gas,Central,None,Condo,No,3,544
+2545 S Dearborn St APT 525,60616,350000,1528,229,2,2,2,1909,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,6,354
+1318 S Plymouth Ct,60605,1650000,5000,330,5,4,3,1992,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,281
+825 N Lawler Ave,60651,113000,1400,81,4,1,1,1903,null,null,Garage - Detached: None: Covered,Single Family,null,2,null
+1407 N Mohawk St #G,60610,235000,1200,196,1,1,1,1999,Forced air: Gas,Central,None: Covered,Condo,null,4,140
+1653 N Menard Ave,60639,349900,2400,146,4,2,2,1925,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3715 N Cicero Ave,60641,299999,1600,187,4,2,1,1904,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+109 W Elm St,60610,849900,2580,329,3,3,3,1884,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1238 W Carmen Ave APT 3N,60640,129900,472,275,1,1,1,1914,Other,Wall,None,Condo,No,3,186
+9756 S Claremont Ave,60643,318000,1410,226,3,2,1,1956,Forced air: Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,null,null
+3300 N Lake Shore Dr APT 4E,60657,399000,2100,190,3,3,3,1926,null,null,Garage - Detached: Covered,Condo,null,9,1053
+10508 S Kedzie Ave,60655,267000,750,356,4,2,2,1940,Forced air,Central,Garage - Detached: None: Covered,Single Family,null,null,null
+2465 N Geneva Ter,60614,1195000,2774,431,3,3,2,1886,Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+1801 S Michigan Ave UNIT 204,60616,424900,1500,283,2,3,2,1899,Gas,Central,Garage: Garage - Attached: Covered,Condo,null,7,508
+3454 N Ashland Ave APT 1S,60657,415000,1300,319,2,2,2,2003,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,4,169
+2603 W 24th St,60608,159900,null,NaN,5,3,3,1896,Forced air: Gas,null,None,Multiple Occupancy,No,null,null
+8136 S Manistee Ave,60617,129900,1835,71,5,2,1,1926,Forced air: Gas,None,Garage: None,Single Family,No,null,null
+635 N Dearborn St APT 1503,60654,369000,991,372,2,2,2,2003,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,626
+2140 W Ohio St #3,60612,244500,1383,177,2,1,1,1894,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,3,285
+910 S Michigan Ave APT 612,60605,299500,1250,240,2,2,1,1913,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,618
+1512 W Highland Ave,60660,550000,1438,382,3,2,2,1900,null,null,Garage - Detached: Covered,Single Family,null,null,null
+100 E 14th St APT 1002,60605,495000,1358,365,2,2,2,2008,Forced air,Central,Garage - Attached: Covered,Condo,null,9,609
+6740 S Oglesby Ave APT 8,60649,135000,3200,42,3,3,3,1927,null,null,null,Condo,No,null,1222
+7301 S Paxton Ave,60649,177400,1300,136,4,3,2,1922,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2227 W Mclean Ave,60647,700000,1750,400,3,2,2,1920,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3942 W 104th Pl,60655,339900,2400,142,5,2,2,1956,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+400 W Deming Pl APT 4M,60614,265000,900,294,2,1,1,1912,Radiant: Gas,None,None,Condo,No,8,594
+233 E Erie St APT 2310,60611,148000,850,174,1,1,1,1968,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,9,736
+1024 N Paulina St #1,60622,600000,2500,240,3,3,2,2004,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,5,175
+5238 S Loomis Blvd,60609,92000,3000,31,7,3,3,1907,Forced air: Gas,null,None: Covered,Multiple Occupancy,null,null,null
+2665 W Maypole Ave,60612,439900,1578,279,3,3,2,2020,Forced air: Gas,Central,Covered,Single Family,null,null,null
+3925 W Huron St #8,60624,45000,750,60,2,1,1,null,Forced air,Central,None: Covered,Condo,null,2,115
+1137 W Addison St #2,60613,399900,1500,267,2,2,2,2001,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,1,156
+3222 W Cortez St,60651,585000,null,NaN,8,3,3,1906,Forced air: Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+1208 W Chase Ave #GD,60626,179000,700,256,2,1,1,1944,null,null,None,Condo,No,3,283
+4260 W Highbridge Ln,60646,409900,2000,205,3,3,2,1989,Forced air: Gas,Central,Garage - Detached: Covered,Townhouse,null,2,375
+5241 N California Ave,60625,349900,1080,324,3,2,1,1956,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2744 N Bosworth Ave #G,60614,212000,null,NaN,2,1,1,2004,Gas,Central,Covered,Condo,null,3,228
+3821 W 55th Pl,60629,179900,840,214,4,2,2,1950,null,null,Garage - Detached: Covered,Single Family,null,1,null
+7445 N Ashland Blvd,60626,234900,1500,157,3,2,2,1977,Gas,Central,Covered,Townhouse,null,3,250
+20 N State St APT 914,60602,189000,750,252,1,1,1,2003,Forced air: Electric,Central,Garage: None: Covered,Condo,null,9,423
+1722 N Western Ave APT 403,60647,400000,1450,276,2,2,2,2004,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,1,308
+6433 N Newgard Ave #201,60626,330000,1900,174,3,2,2,null,null,null,Garage - Detached: Covered,Condo,null,3,450
+2916 W Fletcher St,60618,945000,3600,263,5,4,4,1901,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4032 N Mason Ave,60634,449900,2000,225,4,3,3,1915,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+800 W George St APT G,60657,239000,900,266,2,2,2,1903,null,null,None,Condo,No,3,399
+6618 S Maryland Ave,60637,149000,null,NaN,6,2,2,1885,null,null,None: Covered,Multiple Occupancy,No,null,null
+2131 N Clark St APT 3,60614,419000,1200,349,2,2,1,1976,Forced air: Electric,Central,Garage: Covered,Condo,null,3,369
+1517 W Erie St,60642,699900,1200,583,4,3,3,1870,Forced air,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+6220 W Balmoral Ave,60630,304900,1300,235,3,2,2,1925,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4869 N Ashland Ave #1F,60640,499555,1750,285,3,3,2,2020,Gas,Central,Garage - Detached: Covered,Condo,null,4,250
+11116 S Spaulding Ave,60655,236000,1152,205,3,2,1,1975,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2111 S Marshall Blvd APT 1,60623,199500,1356,147,2,1,1,1901,Forced air,None,None,Condo,No,3,200
+855 W Erie St APT 116,60642,475000,1500,317,3,3,3,1997,Electric: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,364
+7731 S Phillips Ave,60649,99900,null,NaN,4,2,2,1921,Forced air: Gas,null,None,Multiple Occupancy,No,2,null
+1748 W Crystal St,60622,749000,2400,312,3,3,2,1875,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1803 S Peoria St,60608,525000,1920,273,4,3,2,1885,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5353 S Christiana Ave,60632,210000,1038,202,3,2,2,1929,null,null,Garage - Detached: Covered,Single Family,null,null,null
+3032 W North Ave APT G,60647,189000,1000,189,2,2,2,1902,Forced air: Gas,Central,None,Condo,No,3,207
+2801 N Seminary Ave APT 1S,60657,399000,1733,230,3,3,2,1891,Forced air,Central,Off-street: Covered,Condo,null,null,321
+4003 W Argyle St,60630,399000,2501,160,7,3,3,1918,Forced air: Gas,Central,Garage: None,Single Family,No,null,null
+215 N Aberdeen St UNIT 404B,60607,400000,1200,333,2,2,2,1918,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,5,602
+2702 S Wallace St,60616,679000,3705,183,5,4,4,2007,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1866-70 N Howe St,60614,10950000,11000,995,6,9,5,2004,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+4916 S Drexel Blvd #1E,60615,95000,1200,79,2,1,1,1920,null,null,None,Condo,No,3,536
+2943 N Lincoln Ave APT 105,60657,315000,1200,263,2,1,1,1994,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,3,189
+6166 N Sheridan Rd APT 2H,60660,149000,1200,124,2,2,1,1970,Baseboard: Gas,Other,Garage: Garage - Attached: Covered,Condo,null,9,962
+5035 S Drexel Blvd UNIT E,60615,110000,960,115,2,2,1,1967,null,null,null,Townhouse,No,null,null
+1534 N Wood St #2,60622,469500,1350,348,2,2,2,2008,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,139
+1525 E 68th St,60637,103299,1400,74,3,1,1,1904,Forced air: Electric,Central,Carport: Off-street: Covered,Condo,null,3,212
+4203 S Prairie Ave #1,60653,194500,2000,97,3,3,3,2008,Gas,Central,Garage - Attached: Covered,Condo,null,3,180
+5437 W Thomas St,60651,25000,1176,21,3,1,1,1914,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+4800 S Dorchester Ave APT 1N,60615,300000,2256,133,4,3,3,1911,Gas,None,None,Condo,No,3,690
+165 N Canal St APT 1412,60606,880000,2000,440,3,3,2,1922,Gas,Central,Garage - Attached: Covered,Condo,null,9,1281
+2038 N Spaulding Ave #3,60647,240000,776,309,2,1,1,null,Gas,Central,None,Condo,No,3,234
+443 E 45th Pl #1,60653,249999,1219,205,2,2,2,1890,Forced air: Gas,Central,Covered,Condo,null,4,null
+1517 N Paulina St APT 3F,60622,299900,950,316,2,2,1,1890,Forced air: Gas,Central,None,Condo,No,4,231
+1132 W Lunt Ave APT 7C,60626,85000,900,94,2,1,1,1949,Radiant,null,Covered,Condo,null,9,725
+2041 W Birchwood Ave APT 1,60645,225000,2300,98,4,3,2,1919,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,2,319
+3124 W 42nd Pl,60632,275000,null,NaN,7,3,3,1920,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+4312 N Hamlin Ave,60618,599000,3200,187,6,3,3,1900,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+347 W 101st Pl,60628,,null,NaN,null,null,null,null,null,null,null,null,null,null,null
+1656 N Whipple St,60647,549900,1424,386,4,3,2,2001,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+300 N State St APT 3228,60654,219900,null,NaN,1,1,1,1965,Electric,null,None,Condo,No,9,547
+1126 N Avers Ave,60651,109900,1300,85,3,2,2,1905,Gas,null,Garage - Detached: None: Covered,Single Family,null,null,null
+811 W Eastwood Ave APT 505,60640,205000,null,NaN,2,2,2,1917,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,6,411
+2658 N Greenview Ave,60614,2299999,5200,442,6,6,5,1915,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+6431 S Saint Lawrence Ave,60637,225000,null,NaN,7,3,3,1903,Gas,null,None,Multiple Occupancy,No,null,null
+400 W Ontario St APT 508B,60654,189900,555,342,1,1,1,2001,Forced air: Gas,Central,None,Condo,No,9,350
+5655 N Spaulding Ave APT 1E,60659,134900,1100,123,2,1,1,1928,Gas,null,On-street,Apartment,No,3,295
+636 W Buckingham Pl UNIT F,60657,349700,1200,291,2,2,1,1972,Forced air: Electric,Central,Garage: Covered,Condo,null,2,193
+2858 W Mclean Ave,60647,435000,1757,248,3,3,3,1895,Forced air: Gas,Other,Garage - Detached: Covered,Single Family,null,null,null
+7104 W Berwyn Ave,60656,397000,2000,199,4,2,2,1962,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+855 N Leclaire Ave,60651,469000,null,NaN,6,4,4,2020,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+1450 N Campbell Ave #1B,60622,187900,800,235,2,1,1,2003,Gas,Central,None: Covered,Condo,No,3,122
+2640 W Rascher Ave,60625,494900,1448,342,3,3,2,1950,Forced air: Gas,Central,Garage: None: Covered,Single Family,null,null,null
+2842 S Trumbull Ave,60623,129900,1496,87,3,2,1,1898,Gas,null,Garage - Attached: Garage - Detached: Covered,Single Family,null,null,null
+2331 E 68th St,60649,599900,3000,200,5,4,4,1915,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+300 N State St APT 2204,60654,189900,500,380,0,1,1,1962,Baseboard: Electric,Central,Garage: Garage - Attached,Condo,No,9,320
+10304 S Talman Ave,60655,419900,3638,115,4,3,2,1939,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+33 E Cedar St APT 12C,60611,169000,800,211,1,1,1,1961,Baseboard: Gas,Wall,Garage: None: Covered,Condo,null,9,739
+1454 S Sangamon St,60608,659000,2738,241,3,3,2,2005,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,337
+1151 N Cambridge Ave,60610,574900,2114,272,3,3,3,2007,Gas,Central,Garage - Attached: Covered,Townhouse,null,3,344
+5540 W School St,60641,275000,2110,130,5,2,2,1926,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+2050 W Le Moyne St,60622,850000,3000,283,3,3,2,1990,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,null
+843 W Grace St #1E,60613,445000,2500,178,3,3,3,1906,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,340
+1813 S Clark St #W26,60616,529000,2230,237,4,3,2,1996,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,324
+744 W 48th St,60609,137500,1056,130,3,2,2,1890,null,null,Garage,Single Family,No,1,null
+3021 W 40th St,60632,229500,null,NaN,4,3,3,1910,Forced air: Gas,null,None,Multiple Occupancy,No,null,null
+10817 S Indiana Ave,60628,149900,1819,82,6,3,3,1922,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1950 W Fargo Ave #1-A,60626,121500,null,NaN,2,2,1,1969,Forced air: Gas,Central,Covered,Condo,null,3,300
+2416 N Neva Ave,60707,399900,1900,210,5,3,2,1921,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2240 N Mason Ave,60639,299000,null,NaN,6,3,3,1921,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+6148 S Moody Ave,60638,232000,1150,202,4,2,1,1924,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2512 W Bloomingdale Ave APT A,60647,399995,1250,320,2,2,2,1998,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,2,250
+712 W Roscoe St APT 3D,60657,385000,1750,220,2,2,2,1910,Forced air: Gas,Central,Covered,Condo,null,3,202
+2404 W Cuyler Ave,60618,739900,2450,302,3,4,3,2020,Gas,Central,Garage - Detached: Covered,Townhouse,null,3,282
+1713 W North Ave UNIT 1R,60622,229900,950,242,2,1,1,1890,Forced air: Gas,Central,None,Condo,No,1,123
+3132 W Jerome St,60645,275000,930,296,3,2,2,1955,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+836 W Lakeside Pl #G,60640,160000,950,168,2,1,1,1927,Other: Other,Wall,Garage: None: Covered,Condo,null,3,381
+1130 W Cornelia Ave APT H,60657,420000,1500,280,2,2,2,1947,Forced air: Gas,Central,Covered,Condo,null,2,341
+1726 N Monticello Ave,60647,280000,2000,140,4,null,null,1905,Forced air: Gas,Central,Garage: Covered,Single Family,null,null,null
+633 S Plymouth Ct APT 1108,60605,239700,1050,228,3,1,1,1904,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,9,624
+2814 N Wolcott Ave,60657,449000,1282,350,2,2,1,1998,Forced air: Gas,Central,Garage: None,Single Family,No,null,null
+2680 N Burling St #1S,60614,374900,1400,268,2,1,1,1893,null,null,Off-street: Covered,Condo,No,3,339
+4031 N Austin Ave,60634,499900,null,NaN,5,3,3,1951,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+444 W Fullerton Pkwy APT 904,60614,299000,1071,279,2,2,1,1972,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,9,1050
+9645 S Hamilton Ave,60643,379000,2241,169,3,4,1,1937,Gas,Central,Garage: Garage - Attached: Covered,Single Family,null,null,null
+2216 W Foster Ave,60625,375000,null,NaN,3,2,2,1900,null,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+2707 S Ridgeway Ave,60623,170000,null,NaN,6,2,2,1904,null,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+5338 N Kedzie Ave,60625,319000,1500,213,4,2,1,1922,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2711 W Washington Blvd #2,60612,220000,1200,183,2,2,2,2007,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,3,135
+2925 N Southport Ave APT 3,60657,725000,2600,279,4,3,3,2003,Gas,Central,Garage - Attached: Covered,Condo,null,4,320
+11411 S Hermosa Ave,60643,317000,1639,193,4,3,3,1917,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+4335 S Wood St,60609,75000,null,NaN,8,4,4,1908,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+565 W Quincy St UNIT 702,60661,350000,985,355,2,2,1,2010,Electric,Central,Garage - Attached: Covered,Condo,null,9,560
+7112 S Rhodes Ave,60619,109900,1704,64,4,2,2,1906,Forced air: Gas,None,Garage - Detached: Covered,Single Family,null,null,null
+6149 N Karlov Ave,60646,389900,2155,181,4,3,3,1952,Forced air: Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,null,null
+6233 W Berenice Ave,60634,329000,1909,172,5,3,3,1927,Baseboard: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+1320 N State Pkwy #6-7C,60610,489000,2900,169,3,3,2,1927,null,null,Garage - Detached: Covered,Condo,null,9,5337
+3642 S Artesian Ave,60632,559000,3100,180,5,4,3,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+161 W Harrison St UNIT 803,60605,264490,1340,197,2,2,2,1901,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,9,721
+5747 S Seeley Ave,60636,130000,1100,118,5,3,3,1915,null,null,Garage - Detached: Covered,Single Family,null,3,null
+2722 E 75th Pl,60649,325000,3750,87,5,4,4,1890,Forced air: Gas,Central,Garage - Detached: None: Covered,Single Family,null,null,null
+3728 N Springfield Ave,60618,299000,1558,192,3,3,1,1910,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+2539 S Lowe Ave,60616,255000,1512,169,3,2,1,1890,Baseboard,null,None,Single Family,No,null,null
+8032 S Union Ave,60620,129900,1752,74,6,2,2,1885,Forced air: Other,null,Garage: None,Multiple Occupancy,No,null,null
+6700 S Crandon Ave APT 4C,60649,99000,2500,40,3,2,2,1928,null,null,None,Condo,No,9,1095
+3950 N Lake Shore Dr #728E,60613,189900,null,NaN,3,2,1,1955,Baseboard,null,Garage - Attached: Covered,Condo,null,9,921
+3128 W 42nd St,60632,310000,null,NaN,4,2,2,null,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+3837 N Fremont St,60613,439900,1600,275,3,2,2,1988,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,4,90
+5907 W Waveland Ave,60634,299000,2808,106,4,2,2,2019,Forced air: Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+4442 N Cicero Ave,60630,380000,1600,238,3,3,3,null,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2668 N Burling St #1,60614,1199000,null,NaN,3,3,2,2020,Gas,Central,Garage - Detached: Covered,Condo,null,3,250
+2550 W Logan Blvd #2R,60647,450000,2016,223,3,3,2,2006,Forced air: Gas,Central,Off-street: Covered,Condo,null,3,300
+5707 S Sangamon St,60621,290000,2384,122,7,2,2,1910,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+3950 N Lake Shore Dr APT 503,60613,135000,850,159,2,1,1,1957,Gas,Wall,Garage - Attached: Covered,Condo,null,9,699
+3319 N Odell Ave,60634,289900,1927,150,4,3,2,1962,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3348 N Panama Ave,60634,337000,2500,135,5,3,2,1956,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,3,null
+1627 S Indiana Ave,60616,599900,2000,300,3,3,2,1997,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,302
+1517 N Mohawk St #2,60610,699000,1323,528,3,2,2,2020,Gas,Central,Garage - Detached: Covered,Condo,null,1,175
+2007 W 69th Pl,60636,35000,2187,16,4,2,2,1956,Gas,null,Garage: None,Single Family,No,null,null
+7944 S Honore St,60620,199900,null,NaN,9,3,3,1932,Gas,null,None,Multiple Occupancy,No,null,null
+1445 N State Pkwy APT 1705,60610,260000,1200,217,2,2,2,1975,Baseboard: Electric,None,Garage: Garage - Attached: Covered,Condo,null,9,1487
+2039 N Lincoln Ave UNIT G,60614,775000,2500,310,3,3,2,1996,Gas,Central,Garage - Attached: Covered,Townhouse,null,3,556
+1236 N Campbell Ave #G,60622,270000,1293,209,2,2,2,null,Forced air: Gas,Central,None,Condo,No,3,200
+4447 N Malden St APT G,60640,284900,1500,190,3,2,2,1908,Forced air: Gas,Central,None,Condo,No,1,198
+1347 N Western Ave #3,60622,379000,1215,312,2,2,2,2014,Gas,Central,Covered,Condo,null,1,200
+5818 N Hermitage Ave,60660,599000,1600,374,3,2,2,1952,Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+8731 S Calumet Ave,60619,269000,2000,135,3,2,2,1959,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+701 W Jackson Blvd APT 302,60661,325000,null,NaN,2,2,2,1887,Forced air: Gas,Central,None,Condo,No,6,374
+7949 S Justine St,60620,234900,2700,87,5,3,3,1916,Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,null,null
+3228 N Kenmore Ave #1,60657,599000,2400,250,4,3,2,1997,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,2,257
+6 E Monroe St APT 1603,60603,339900,1600,212,2,3,2,1906,Forced air: Gas,Central,null,Condo,No,9,1346
+407 N Elizabeth St APT 205,60642,449000,1700,264,2,2,1,1996,Forced air: Gas,Central,Off-street: Covered,Condo,null,2,302
+443 E 45th Pl #4,60653,359999,1442,250,3,2,2,1890,Forced air: Gas,Central,Covered,Condo,null,4,null
+6023 N Kimball Ave,60659,659900,3000,220,4,4,3,2020,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3249 S Archer Ave #4,60608,299000,1356,221,3,2,2,2020,Gas,Central,Covered,Condo,null,4,130
+151 N Long Ave,60644,175000,null,NaN,5,3,3,1903,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+9942 S Longwood Dr,60643,799999,4614,173,5,4,2,1907,null,Central,Garage - Detached: Covered,Single Family,null,null,null
+7763 W Rosedale Ave,60631,284000,1000,284,2,2,2,1944,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2406 W Cuyler Ave,60618,759900,2450,310,3,4,3,2020,Gas,Central,Garage - Detached: Covered,Townhouse,null,3,282
+1201 W Wrightwood Ave APT 8,60614,649000,1510,430,2,2,2,2001,Gas,Central,Garage: Garage - Attached: Covered,Condo,null,3,409
+2252 W Argyle St #1,60625,319900,1200,267,2,2,2,1925,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,2,350
+2343 W Maypole Ave,60612,275000,1800,153,3,3,2,1892,null,None,Garage - Detached: Covered,Multiple Occupancy,null,3,null
+2601 W Morse Ave,60645,579000,4214,137,4,3,2,1923,null,null,Garage - Detached: Covered,Single Family,null,null,null
+6026 S Champlain Ave,60637,299900,3100,97,4,2,2,1918,Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+464 N Aberdeen St APT 2R,60642,199500,650,307,1,1,1,1879,Forced air,Central,null,Apartment,No,null,null
+400 W Deming Pl APT 5N,60614,240000,800,300,1,1,1,1912,null,null,Garage - Detached: Covered,Condo,null,9,640
+1255 N Sandburg Ter UNIT 2710,60610,200000,800,250,2,1,1,1965,Gas,null,Garage - Attached: Covered,Condo,null,9,567
+1725 N Wood St,60622,1995000,4200,475,5,5,3,2020,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3102 N Saint Louis Ave,60618,649000,2367,274,5,3,3,1901,Forced air: Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+720 S Dearborn St APT 501,60605,330000,1400,236,2,2,1,1916,Forced air: Gas,Central,None,Condo,No,13,955
+5137 N Mason Ave,60630,379900,1437,264,4,3,3,1954,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+2210 W Wabansia Ave APT 302,60647,399900,1100,364,2,2,1,1998,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,1,239
+10416 S Ave E,60617,187900,1241,151,4,2,1,1958,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+3812 W Maypole Ave UNIT 2,60624,75000,1200,63,3,2,1,2006,Forced air: Gas,None,Covered,Condo,null,2,250
+601 W 43rd St,60609,375000,2000,188,3,3,1,1883,Forced air: Gas,Central,Covered,Multiple Occupancy,null,null,null
+2858 N Damen Ave #1,60618,589000,2200,268,3,3,3,2000,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,5,142
+5247 W Patterson Ave,60641,369000,2000,185,5,2,2,1924,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+1241 W Jarvis Ave APT 1,60626,300000,1500,200,2,2,2,2007,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,2,268
+1716 N Pulaski Rd,60639,270000,null,NaN,4,2,2,1895,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,3,null
+4418 S Berkeley Ave,60653,275000,2200,125,4,3,2,1895,Gas,Central,Garage: None: Covered,Single Family,null,null,null
+655 W Irving Park Rd APT 409,60613,140000,550,255,0,1,1,1973,Forced air,Central,Garage - Attached: Covered,Condo,null,9,359
+1012 N Milwaukee Ave #3,60642,480000,2000,240,3,2,2,1879,Forced air: Gas,Central,Off-street: Covered,Condo,null,3,310
+1510 W 74th St,60636,100000,1080,93,3,1,1,1972,Gas,Central,Garage: None,Single Family,No,null,null
+863 N Paulina St #1,60622,589900,2400,246,3,3,2,2003,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,3,220
+1464 W Berwyn Ave APT 2,60640,319900,1242,258,2,1,1,1915,Radiant: Gas,null,None,Condo,No,3,408
+3743 S Hermitage Ave,60609,225000,2000,113,5,2,2,1885,Other: Gas,None,Garage - Detached: None: Covered,Single Family,null,null,null
+4751 N Artesian Ave APT 302,60625,279000,1100,254,2,2,2,2002,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,4,285
+5038 W Dakin St,60641,399900,null,NaN,5,2,2,1918,Baseboard: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+5315 S Melvina Ave,60638,285200,960,297,3,2,2,1954,Forced air: Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,1,null
+1030 N Ridgeway Ave,60651,153999,1155,133,5,2,2,1885,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+7027 S Constance Ave,60649,475000,1964,242,5,4,3,1918,null,Central,Garage - Detached: Covered,Single Family,null,null,null
+336 W Wellington Ave APT 905,60657,254500,1250,204,2,2,2,1964,Baseboard: Electric,Other,Garage: None: Covered,Condo,null,9,1046
+1348 N Mayfield Ave,60651,334900,2800,120,6,3,2,1920,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+844 W Ainslie St APT KG,60640,118000,650,182,1,1,1,1928,Baseboard: Electric,None,Garage: None: Covered,Condo,null,4,189
+5326 S Keeler Ave,60632,249000,1207,206,4,2,1,1940,Electric,Central,Garage - Detached: Covered,Single Family,null,null,null
+1709 W George St,60657,579000,2338,248,2,3,2,2004,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,427
+7727 W Columbia Ave,60631,995700,5050,197,6,5,4,2020,Forced air: Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,null,null
+622 N Rockwell St APT 101,60612,495000,1600,309,3,3,3,2007,Gas,Central,Garage - Attached: Covered,Condo,null,4,398
+837 N Trumbull Ave,60651,239000,1300,184,3,2,2,1905,Gas,null,Garage: Covered,Single Family,null,null,null
+2050 W Le Moyne St #1,60622,850000,3000,283,3,3,2,1990,Gas,Central,Garage - Attached: Covered,Condo,null,3,null
+953 W 37th Pl,60609,720000,3639,198,5,4,3,2015,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,50
+417 S Jefferson St APT 409B,60607,374900,1200,312,2,2,2,1892,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,5,490
+5028 W Eddy St,60641,434900,1714,254,4,3,3,1924,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+675 W Wrightwood Ave #2,60614,650000,null,NaN,3,2,2,1893,Forced air: Gas,Central,Covered,Condo,null,3,200
+12837 S Escanaba Ave,60633,137500,1234,111,3,1,1,1960,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+930 W Roscoe St #REAR,60657,775000,2700,287,4,4,3,1894,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Single Family,null,null,null
+2111 W Sunnyside Ave,60625,899000,1900,473,3,2,1,1911,Radiant: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5345 N Meade Ave,60630,385000,2240,172,4,3,2,1952,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+10115 S Morgan St,60643,239900,1200,200,4,2,2,1932,Forced air: Gas,Central,Garage - Detached: None: Covered,Single Family,null,null,null
+2045 W Webster Ave,60647,550000,1700,324,3,3,2,1996,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,null
+6157 S Talman Ave,60629,274900,1200,229,4,2,2,1918,Forced air: Gas,None,On-street: Covered,Multiple Occupancy,null,null,null
+1736 W Catalpa Ave,60640,615000,null,NaN,5,2,null,1902,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+9350 S Normal Ave,60620,190000,1120,170,3,1,1,1963,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+2723 W Saint Georges Ct,60647,750000,2673,281,4,4,3,2015,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+200 N Dearborn St UNIT 1006,60601,307500,1200,256,2,2,2,1989,Forced air: Gas,Central,None,Condo,No,9,679
+1320 N State Pkwy UNIT 3A,60610,475000,2200,216,3,3,2,1926,null,null,Covered,Condo,null,9,4351
+3436 N Ridgeway Ave #G,60618,179900,1100,164,2,2,2,1919,Forced air: Gas,Central,Covered,Condo,null,1,150
+3145 N Cambridge Ave APT 3,60657,375000,1400,268,2,2,2,1911,Other,Wall,None: Covered,Condo,null,3,531
+1600 S Indiana Ave UNIT 1803,60616,349900,1206,290,2,2,2,2005,Forced air,Central,Garage - Attached: Covered,Condo,null,9,477
+1238 W Ohio St #2,60642,399000,null,NaN,2,2,2,1997,Forced air: Gas,Central,Covered,Condo,null,3,117
+70 W Burton Pl #2201,60610,190000,745,255,1,1,1,1966,null,null,Garage - Attached: Covered,Condo,null,9,725
+1047 N Central Park Ave,60651,195000,1500,130,4,3,3,1908,Forced air: Gas,Central,Garage - Detached: None: Covered,Single Family,null,null,null
+651 W Sheridan Rd APT 3A,60613,335000,1200,279,2,2,2,1974,Forced air: Electric,Central,Garage - Attached: Covered,Condo,null,7,361
+7641 N Eastlake Ter APT 2D,60626,205000,null,NaN,2,1,1,1924,Other,Other,Garage: Garage - Detached: Covered,Condo,null,3,537
+4841 N Oakley Ave,60625,1499000,4200,357,6,5,4,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5811 W Higgins Ave,60630,494400,null,NaN,8,3,3,1968,Baseboard: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+11 N Green St UNIT 2D,60607,779999,2100,371,3,3,3,1915,Gas,Central,Garage - Attached: Covered,Condo,null,2,567
+1521 N Lawndale Ave,60651,99000,900,110,2,1,1,1890,Gas,Central,Garage: None: Covered,Single Family,null,null,null
+6122 S Normandy Ave,60638,199900,1108,180,3,2,2,1955,Forced air: Gas,Central,Garage: Covered,Single Family,null,null,null
+1013 N Cleveland Ave UNIT 6,60610,849000,2134,398,3,3,2,2016,Gas,Central,Garage - Attached: Covered,Townhouse,null,2,233
+3353 S Racine Ave,60608,709000,3600,197,4,4,3,2020,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,2,null
+428 W Roslyn Pl,60614,1399500,4600,304,5,4,2,1895,Radiant: Gas,Central,Garage: Garage - Detached,Single Family,No,3,null
+1512 W Cornelia Ave #G,60657,249900,1064,235,2,1,1,1920,Forced air: Gas,Central,Covered,Condo,null,4,229
+3439 W Hirsch St,60651,325000,1735,187,5,2,2,1900,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+8600 S Kildare Ave,60652,324900,1803,180,4,4,2,1960,Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+4522 W 63rd St UNIT 1,60629,,null,NaN,null,null,null,null,null,null,null,null,null,null,null
+2318 W 35th Pl,60609,219000,2700,81,4,2,2,1885,Radiant: Gas,Other,Carport: On-street: Covered: Garage,Multiple Occupancy,null,null,null
+420 E North Water St,60611,1245900,3600,346,4,4,3,1997,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,538
+777 N Michigan Ave APT 3702,60611,139900,600,233,0,1,1,1968,Forced air: Gas,Central,Garage - Attached,Condo,No,9,480
+5938 S May St,60621,79900,1668,48,6,3,2,1892,Forced air: Gas,null,None,Multiple Occupancy,No,null,null
+2858 E 96th St,60617,199000,1922,104,5,3,2,1925,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Single Family,null,null,null
+1638 W Ohio St,60622,450000,null,NaN,4,2,2,1875,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+2541 W Monroe St #A,60612,235000,1100,214,3,1,1,2020,Forced air,Central,Covered,Townhouse,null,2,null
+5440 N New England Ave,60656,550000,2250,244,4,3,2,1925,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+421 W Huron St APT 1107,60654,281000,844,333,1,1,1,2001,Other: Gas,Central,Garage - Attached: Covered,Condo,null,9,501
+610 W Surf St APT 4A,60657,500000,1800,278,3,2,2,1904,Other,Central,Covered,Condo,null,4,331
+8725 S Burley Ave,60617,650001,null,NaN,10,4,2,1890,Gas,null,None,Multiple Occupancy,No,null,null
+1539 W Montana St #2,60614,424900,null,NaN,2,2,2,2003,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,3,174
+3950 N Lake Shore Dr #2020,60613,220000,1200,183,3,2,1,1957,Other,None,Garage - Attached: Covered,Condo,null,1,874
+8316 S Muskegon Ave,60617,34900,null,NaN,6,2,2,1898,Gas,null,Covered,Multiple Occupancy,null,null,null
+1838 S Springfield Ave APT C,60623,80000,1200,67,2,2,1,1999,Gas,null,None,Townhouse,No,2,null
+1111 W Cornelia Ave APT 110,60657,369000,1500,246,2,1,1,1925,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,2,277
+1013 N Cleveland Ave UNIT 3,60610,775000,2198,353,3,3,2,2015,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,2,233
+1629 N Keating Ave,60639,169800,1000,170,2,1,1,1926,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+906 N Karlov Ave,60651,90000,1690,53,4,2,2,1913,null,null,Garage - Detached: Covered,Single Family,null,null,null
+5000 N Marine Dr #11E,60640,99900,900,111,1,1,1,1923,Gas,Wall,None,Condo,No,9,1213
+1512 N Sedgwick St APT 4,60610,488000,1500,325,2,2,2,2004,Forced air: Gas,Central,Garage: Garage - Attached: Covered,Condo,null,4,250
+2909 S Wallace St,60616,420000,2313,182,6,3,3,1880,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3845 N Milwaukee Ave,60641,500000,2362,212,4,3,3,1999,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,135
+11154 S Whipple St,60655,269900,2368,114,4,2,2,1920,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3604 W 64th Pl,60629,179900,1362,132,3,1,1,1925,null,null,Garage: None,Single Family,No,null,null
+1911 N Lockwood Ave,60639,279500,2018,139,4,3,3,2009,Forced air: Electric,Central,Garage - Attached: Covered,Townhouse,null,3,126
+714 W Fullerton Ave #1,60614,414500,1700,244,3,2,2,1926,Radiant,Central,Garage - Detached: Covered,Condo,null,3,404
+522 W Deming Pl,60614,6700000,6600,1015,6,6,5,1883,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3900 N Lake Shore Dr APT 3A,60613,240000,1250,192,2,2,2,1960,null,null,Garage - Attached: Covered,Condo,null,9,1200
+7348 N Ridge Blvd APT 16B,60645,124900,1200,104,2,1,1,1929,Forced air: Gas,Other,Covered,Condo,null,4,588
+2826 W Fletcher St #2,60618,495000,1450,341,3,3,2,2020,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,125
+2535 W 82nd St,60652,214500,1140,188,2,2,1,1943,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2723 N Mozart St,60647,569900,null,NaN,4,2,2,null,Forced air,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+3456 N Janssen Ave APT F1,60657,299900,1058,283,2,2,2,1921,Forced air: Gas,Central,None,Condo,No,2,264
+2959 N Nashville Ave,60634,285500,1070,267,3,2,1,1958,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+9644 S Longwood Dr,60643,499000,2600,192,4,3,2,1912,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+33 W Ontario St PENTHOUSE D,60654,2880000,4354,661,4,4,4,2003,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,60,3739
+2741 N Mason Ave,60639,349900,1470,238,4,2,2,1914,Forced air,null,Garage: None,Multiple Occupancy,No,null,null
+5919 N Knox Ave,60646,649000,1850,351,4,3,2,1920,Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+1851 W Newport Ave #1,60657,399900,2000,200,3,3,2,1905,Gas,Central,None: Covered,Condo,null,3,342
+3415 S Indiana Ave,60616,410000,2775,148,4,3,2,1988,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2426 W Winona St,60625,750000,2346,320,3,3,3,1906,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4600 N Central Park Ave #2,60625,225000,1300,173,2,2,2,1911,Forced air: Gas,Central,None,Condo,No,3,296
+1038 W Balmoral Ave APT 1A,60640,324900,1900,171,3,2,2,1922,None: Radiant,Wall,None: Covered,Condo,null,7,741
+8453 S Rhodes Ave,60619,269900,2033,133,4,3,2,1920,Gas,Central,Garage - Detached: Covered,Single Family,null,1,null
+3153 W Wallen Ave,60645,997000,4856,205,5,6,5,2018,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+7254 W Bryn Mawr Ave,60631,289927,1089,266,3,2,1,1959,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2637 W Belmont Ave UNIT 4,60618,335000,null,NaN,2,2,2,2003,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Condo,null,4,173
+2055 N Dayton St #1A,60614,525000,null,NaN,3,2,2,null,null,null,None,Condo,No,2,515
+75 E Elm St,60611,3995000,7150,559,7,7,6,1887,Forced air: Gas,Central,Garage: None,Single Family,No,null,null
+10119 S Eberhart Ave,60628,129900,1224,106,2,2,1,1941,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4317 S Calumet Ave,60653,675000,3990,169,5,4,3,2019,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3017 S Quinn St,60608,698000,3700,189,4,5,4,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4800 S Lake Park Ave #2108A,60615,40000,1100,36,2,1,1,1970,null,Central,Garage - Detached,Condo,No,9,1234
+611 S Wells St APT 803,60607,499000,1667,299,3,3,2,2008,Electric,Central,Garage - Attached: Covered,Condo,null,9,881
+3110 N Greenview Ave APT 2E,60657,375000,1250,300,2,2,2,2004,Forced air: Gas,Central,Covered,Condo,null,6,394
+6301 N Sheridan Rd APT 22B,60660,152500,null,NaN,2,2,2,1963,Forced air,Central,Garage: Garage - Attached: Covered,Condo,null,25,838
+2659 N Ashland Ave #11,60614,624500,2700,231,3,3,2,2003,Gas,Central,Garage - Attached: Covered,Townhouse,null,3,105
+746 W Cornelia Ave #GW,60657,219000,1050,209,2,1,1,1913,Forced air: Gas,Central,None: Covered,Condo,No,3,212
+5 N Wabash Ave APT 1604,60602,254900,1089,234,2,1,1,1910,Forced air: Gas,Central,None,Condo,No,9,550
+1849 W North Ave UNIT 5,60622,400000,1200,333,2,2,2,1997,Forced air: Gas,Central,Garage: Off-street: Covered,Condo,null,4,254
+5637 S Green St,60621,89900,null,NaN,6,2,2,null,Other: Gas,null,Covered,Multiple Occupancy,null,2,null
+1720 S Michigan Ave APT 3217,60616,194900,705,276,1,1,1,2008,Forced air: Gas,Central,None,Condo,No,9,352
+5522 W Farragut Ave,60630,299000,1924,155,3,2,2,1928,Gas,Central,None,Single Family,No,null,null
+4607 W Shakespeare Ave,60639,289000,1200,241,4,1,1,1922,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5138 S Kenwood Ave APT 3,60615,500000,3000,167,4,3,3,1916,Baseboard: Gas,Central,Garage - Detached: Covered,Condo,null,3,551
+1949 N Monticello Ave #1,60647,175000,850,206,2,2,2,1925,Forced air: Gas,Central,None,Condo,No,2,337
+700 W Van Buren St APT 710,60607,209000,700,299,1,1,1,2001,Forced air: Gas,Central,Garage: Garage - Attached,Condo,No,1,314
+4729 N Beacon St APT 2S,60640,390000,1900,205,3,2,2,1926,Forced air: Gas,Central,Covered,Condo,null,3,463
+2650 N Lakeview Ave APT 806,60614,275000,800,344,1,1,1,1974,Forced air,Central,Garage - Attached: Covered,Condo,null,9,538
+1705 N Crilly Ct #B,60614,399900,1325,302,3,2,2,1889,Forced air: Gas,Central,None,Condo,No,4,448
+780 S Federal St APT 302,60605,300000,1207,249,3,2,2,1913,Forced air: Electric,Central,Garage - Attached: Covered,Condo,null,9,642
+1649 N Vine St,60614,675000,1424,474,3,3,2,1976,Forced air: Gas,Central,Garage - Detached: Covered,Townhouse,null,2,126
+3406 N Marshfield Ave,60657,649900,1974,329,5,3,3,1903,Forced air: Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+3118 N Lincoln Ave APT 4A,60657,550000,1700,324,3,2,2,1999,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,4,268
+10735 S Church St,60643,249900,2400,104,4,3,2,1915,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,2,null
+1643 N Bell Ave,60647,700000,2500,280,4,3,3,1894,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+3014 W 107th St,60655,119900,1000,120,3,2,null,1957,Gas,Central,None,Single Family,No,null,null
+557 W Fullerton Pkwy APT 1E,60614,325000,null,NaN,2,1,1,null,Radiant,null,None,Condo,No,3,362
+1325 N State Pkwy APT 5D,60610,315000,950,332,1,1,1,1969,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,522
+2700 W Bryn Mawr Ave UNIT B,60659,425000,2090,203,3,3,2,2000,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,3,165
+5454 S Kimbark Ave #3E,60615,150000,800,188,2,1,1,null,Gas,null,None,Condo,No,3,485
+1645 N Oakley Ave APT 2,60647,399999,null,NaN,3,2,2,1999,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,3,120
+2036 N Sedgwick St UNIT D,60614,589900,1600,369,2,3,2,1996,Gas,Central,Garage - Attached: Covered,Condo,null,2,378
+2644 N Wayne Ave #E,60614,449500,1500,300,3,2,1,1984,Forced air: Gas,Central,Covered,Townhouse,null,2,100
+5130 S Mayfield Ave,60638,349900,1800,194,4,2,2,1945,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4201 W Melrose St,60641,350000,2000,175,4,3,3,1919,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3042 W Belmont Ave,60618,285000,null,NaN,4,2,2,1900,Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+4440 N Damen Ave APT 3E,60625,222000,950,234,2,1,1,1925,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,4,280
+1609 W Belle Plaine Ave #2,60613,399000,1300,307,3,2,1,2014,Forced air: Gas,Central,None,Condo,No,2,100
+2300 W Granville Ave #3,60659,215000,1900,113,4,2,2,1928,Other,Central,None,Condo,No,3,460
+5636 N Osceola Ave,60631,439000,1690,260,4,2,2,1946,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+10 E 113th Pl,60628,45000,1840,24,6,2,2,1890,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+2130 N Kenmore Ave,60614,6800000,9000,756,8,8,6,null,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,null
+6800 N California Ave APT 2R,60645,137900,1250,110,2,2,2,1969,null,null,Covered,Condo,null,4,370
+460 W Huron St,60654,7999000,10360,772,7,11,8,2009,Forced air: Gas,Central,Garage - Attached: Covered,Single Family,null,null,315
+5200 S Ellis Ave APT 205,60615,239500,1200,200,2,2,2,1971,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,6,930
+414 W Wellington Ave,60657,664900,2700,246,3,4,3,1939,Gas,Central,Garage: Covered,Townhouse,null,2,290
+7941 S Woodlawn Ave,60619,98000,null,NaN,6,2,2,1906,Forced air: Gas,null,None,Multiple Occupancy,No,null,null
+550 W Surf St #C004,60657,245000,1150,213,2,1,1,1890,Forced air: Gas,Central,None: Covered,Condo,null,7,350
+4631 W Harrison St,60644,175000,null,NaN,5,4,4,1900,Gas,null,Covered,Multiple Occupancy,null,null,null
+1940 S Trumbull Ave,60623,305000,null,NaN,7,3,3,1881,Forced air: Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+7638 S Michigan Ave,60619,330000,1399,236,4,2,2,1925,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+6945 S Hermitage Ave,60636,44900,null,NaN,5,2,2,1904,Gas,null,None,Multiple Occupancy,No,null,null
+5204 S Lockwood Ave,60638,450000,3583,126,6,3,3,1931,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4833 W Crystal St,60651,215900,1100,196,3,2,1,1918,Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+10229 S California Ave,60655,219000,1100,199,3,2,2,1955,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5150 S Sawyer Ave,60632,180000,1488,121,3,3,1,1885,Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+420 E Waterside Dr UNIT 306,60601,239000,629,380,1,1,1,2006,Forced air: Electric: Gas,Central,Garage - Attached: Covered,Condo,null,9,367
+3513 N Kolmar Ave,60641,274900,1000,275,4,2,2,1959,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1521 N State Pkwy,60610,9950000,9700,1026,6,8,8,1894,Forced air: Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,4,null
+2733 W Nelson St,60618,620000,2000,310,4,3,2,1905,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+5041 S Lawler Ave,60638,269900,1063,254,5,2,2,1950,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+6108 N Caldwell Ave,60646,369000,2750,134,4,3,2,1975,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+222 N Columbus Dr APT 1901,60601,279000,835,334,2,1,1,2002,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,630
+4134 W Roscoe St,60641,260000,1700,153,3,3,3,1907,Forced air: Gas,Central,Garage - Detached: None: Covered,Single Family,No,1,null
+1542 N Rockwell St #G,60622,199900,900,222,2,1,1,1905,Forced air: Gas,Central,None: Covered,Condo,null,3,200
+2228 N Hamilton Ave APT 1R,60647,325000,1300,250,2,3,2,2004,Forced air: Gas,Central,Off-street: Covered,Condo,null,3,250
+175 E Delaware Pl #8301-2,60611,899000,2900,310,3,3,2,1969,Electric,null,Garage - Attached: Covered,Condo,null,9,2581
+3149 W Lexington St UNIT 3,60612,169000,1800,94,3,2,2,2008,Forced air: Gas,Central,Garage - Attached: Covered,Townhouse,null,2,null
+811 W Eastwood Ave APT 206,60640,169000,750,225,1,1,1,1917,Forced air: Gas,Central,Garage - Detached: Covered,Condo,null,6,313
+4600 S Indiana Ave APT 1E,60653,166900,1250,134,3,2,2,1899,Gas,Central,None,Condo,No,3,242
+426 E 90th St,60619,230000,1900,121,4,2,2,1921,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2033 N Newcastle Ave,60707,179900,856,210,2,2,1,1922,Forced air: Gas,null,Garage - Detached: Covered,Single Family,null,null,null
+1212 N Lake Shore Dr #25B-N,60610,675000,1700,397,2,2,2,1970,Forced air: Electric,Central,Garage - Attached: Covered,Condo,null,9,1297
+2549 W Pershing Rd,60632,249900,1376,182,3,2,1,1900,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2521 W 109th St,60655,215000,1188,181,2,2,1,1943,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+1056 W Lawrence Ave APT 4B,60640,349900,null,NaN,2,2,2,2004,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,4,347
+2949 N Luna Ave,60641,559900,3252,172,4,4,3,1924,Electric: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+2465 W Balmoral Ave #1N,60625,197000,1100,179,2,1,1,1952,Forced air,Central,Covered,Condo,null,2,120
+4742 S Kilpatrick Ave,60632,258901,1000,259,3,2,2,1958,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+3419 N Kedzie Ave,60618,927355,3092,300,6,4,null,2008,Stove: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3621 N Wilton Ave #2,60613,450000,1400,321,3,2,2,1894,Forced air: Gas,Central,None: Covered,Condo,null,3,244
+4918 N Spaulding Ave,60625,375000,null,NaN,5,2,2,1909,Gas,null,Garage - Detached: Covered,Multiple Occupancy,null,null,null
+4815 N Lowell Ave,60630,500000,2193,228,5,4,3,1923,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+6300 N Sheridan Rd APT 307,60660,75000,750,100,1,1,1,1962,Forced air: Gas,Refrigerator,Garage: None: Covered,Condo,null,8,393
+9834 S Michigan Ave,60628,195000,2568,76,3,2,1,1963,Baseboard: Gas,null,Covered,Single Family,null,null,null
+2018 W Homer St,60647,649000,null,NaN,4,3,3,null,Gas,Central,Garage - Detached: Covered,Multiple Occupancy,null,2,null
+9401 S Hoyne Ave,60643,1085000,5300,205,4,5,4,1948,Forced air: Other: Gas,Refrigerator: Central,Garage - Attached: Covered,Single Family,null,3,null
+5314 S Kimbark Ave APT 1,60615,229900,1150,200,2,1,1,1920,null,Wall,None,Condo,No,3,435
+6628 N Onarga Ave,60631,550000,2832,194,4,3,2,1938,Baseboard,Central,Garage - Detached: Covered,Single Family,null,null,410
+281 Mahogany Ln,43116,427732,2858,150,4,3,2,2020,null,null,Covered,Single Family,null,2,null
+400 W Ontario St APT 603,60654,360000,1310,275,2,2,2,1999,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,607
+4856 N Kenneth Ave APT 2,60630,186000,1100,169,2,2,2,1919,Forced air: Gas,Central,None: Garage,Condo,No,2,190
+653 N Kingsbury St APT 1001,60654,700000,2000,350,3,3,3,2002,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,1243
+340 W Superior St APT 906,60654,224900,760,296,1,1,1,2001,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,9,615
+5958 S Carpenter St,60621,,null,NaN,null,null,null,null,null,null,null,null,null,null,null
+4825 S Champlain Ave,60615,719000,null,NaN,4,4,3,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+3926 W 104th St,60655,299900,1740,172,3,2,2,1950,Forced air,Central,Garage - Detached: Covered,Single Family,null,null,null
+2729 N Racine Ave #S,60614,432000,null,NaN,2,3,2,null,Forced air: Gas,Central,Covered,Townhouse,null,2,165
+1451 N Larrabee St #C,60610,385000,1200,321,2,2,1,1998,Gas,Central,Covered,Condo,null,3,294
+4816 N Nordica Ave,60656,389000,1265,308,3,3,2,1958,Forced air: Gas,Central,Garage: Garage - Detached: Covered,Single Family,null,null,null
+919 W Wolfram St,60657,899000,3934,229,6,4,3,1891,Forced air: Gas,Central,Garage - Attached: Garage - Detached: Covered,Single Family,null,null,null
+444 W Fullerton Pkwy APT 1503,60614,330000,1175,281,2,2,1,1972,Gas,Central,Garage - Attached: Covered,Condo,null,20,1050
+10235 S Whipple St,60655,235000,1027,229,3,2,2,1957,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
+4442 N Damen Ave APT 2W,60625,290000,1000,290,2,2,2,2012,Forced air: Gas,Central,None,Condo,No,4,316
