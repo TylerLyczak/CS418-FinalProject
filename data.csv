@@ -132,7 +132,7 @@ Address,Zip Code,Value,SQFT,Price Per SQFT,Number of Bedrooms,Number of Bathroom
 7801 S Drexel Ave,60619,199999,1301,154,4,3,3,1942,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
 3406 N Seminary Ave #2,60657,299000,1300,230,2,2,2,1998,Forced air: Gas,Central,Garage - Attached: Covered,Condo,null,1,99
 2535 W Monroe St,60612,235000,1100,214,3,1,1,null,Forced air,Central,Covered,Single Family,null,null,null
-2131 N Clark St APT 1,60614,600000,1490,402.68,3,3,2,1976,Forced air: Electric,Central,Off-street: Covered,Condo,null,3,527
+2131 N Clark St APT 1,60614,600000,null,NaN,3,3,2,1976,Forced air: Electric,Central,Off-street: Covered,Condo,null,3,527
 5306 N Cumberland Ave APT 306-3,60656,120000,1100,109,2,2,2,1976,Gas,null,Garage - Attached: Covered,Condo,null,5,361
 7728 N Sheridan Rd,60626,499999,2097,238,3,2,2,1918,Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
 5751 W Ainslie St,60630,699900,3104,225,4,4,3,2020,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
