@@ -1,4 +1,4 @@
-Address, Zip Code, Value, SQFT, Price Per SQFT, Number of Bedrooms, Number of bathrooms, Number of Full Bathrooms, Year Built, Heating, Cooling, Parking, Type, Has Garage, Number of Stories, HOA Fee
+Address, Zip Code, Value, SQFT, Price Per SQFT, Number of Bedrooms, Number of Bathrooms, Number of Full Bathrooms, Year Built, Heating, Cooling, Parking, Type, Has Garage, Number of Stories, HOA Fee
 4800 S Lake Park Ave APT 607,60615,35000,1175,30,2,1,1,1970,Forced air: Gas,Central,None,Condo,No,9,1177
 232 N La Crosse Ave,60644,239900,2300,104,5,3,3,1885,Forced air: Gas,Central,Garage - Detached: Covered,Single Family,null,null,null
 12043 S Wallace St,60628,7000,1970,4,7,3,3,1898,Gas,null,None,Multiple Occupancy,No,3,null
